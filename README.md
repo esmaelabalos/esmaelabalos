@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esmaelabalos
 - 👀 I’m interested in learning about the latest front-end development trends and best practices, particularly in UI design and development. 
-- 🌱 I’m currently learning about Nxt.js and how to apply it in building responsive and user-friendly interfaces. 
+- 🌱 I’m currently learning about Nuxt.js and how to apply it in building responsive and user-friendly interfaces. 
 - 💞️ I’m looking to collaborate on projects that involve creating visually appealing and interactive UI components.
 - 📫 You can find me on GitHub at @esmaelabalos
 - 😄 Pronouns: he/him
